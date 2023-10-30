@@ -1,3 +1,3 @@
-# my-project--clock
+#clock page
 this self project contains plane html, css and javascript.
-https://tanveer1777.github.io/my-project--clock/
+https://github.com/tanveer1777/clock-page.git
